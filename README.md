@@ -22,5 +22,5 @@ b) security - can be used to trigger a bank vault alarm system
 We referred to ELÉTRICA SIMULAÇÕES's project on (create.arduino.cc) and modified it according to our needs. For the Arduino circuit, we reffered to shubham_rattra on Thinkercad.
 (https://create.arduino.cc/projecthub/2013lucasrodrigues/helmet-that-help-in-social-distancing-12071e?ref=user&ref_id=1499241&offset=1)
 (https://www.tinkercad.com/things/du7i4tFr0WU-social-distancing-indicator-with-alarming-system)
-##Tinker circuit
+## Tinkercad circuit
 https://www.tinkercad.com/things/d40OLxhmJnW
