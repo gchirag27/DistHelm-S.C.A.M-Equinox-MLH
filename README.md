@@ -19,7 +19,7 @@ The circuit design we used can be implemented in various other fields such as:
 a) defense - can be used as a high range detector in the military
 b) security - can be used to trigger a bank vault alarm system
 ## Reference
-We referred to ELÉTRICA SIMULAÇÕES's project on (create.arduino.cc) and modified it according to our needs. For the Arduino circuit, we reffered to shubham_rattra on Thinkercad.
+We referred to ELÉTRICA SIMULAÇÕES's project on (create.arduino.cc) and modified it according to our needs. For the Arduino circuit, we reffered to shubham_rattra on Tinkercad.
 (https://create.arduino.cc/projecthub/2013lucasrodrigues/helmet-that-help-in-social-distancing-12071e?ref=user&ref_id=1499241&offset=1)
 (https://www.tinkercad.com/things/du7i4tFr0WU-social-distancing-indicator-with-alarming-system)
 ## Tinkercad circuit
